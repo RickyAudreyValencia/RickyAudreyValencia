@@ -20,21 +20,46 @@
 
 ---
 
-## GitHub Analytics
+## 🔥 Stats & Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RickyAudreyValencia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8c27a&text_color=ffffff&icon_color=e8c27a" alt="Ricky's GitHub statistics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyAudreyValencia&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8c27a&text_color=ffffff" alt="Ricky's most used languages">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyAudreyValencia&theme=github_dark&animation=load&duration=3" alt="Ricky's GitHub profile details">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RickyAudreyValencia&bg_color=0d1117&color=e8c27a&line=e8c27a&point=ffffff&area=true&hide_border=true" alt="Ricky's contribution graph">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyAudreyValencia&theme=github_dark&animation=load&duration=3" alt="Ricky's GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyAudreyValencia&theme=github_dark&animation=load&duration=3" alt="Ricky's top languages by repository">
+</p>
+
+### ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+WakaTime statistics will appear here after the workflow is configured.
+```
+<!--END_SECTION:waka-->
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="assets/github-contribution-grid-snake.svg" alt="Animated contribution snake">
 </p>
 
 ---
 
-## Recently Played on Spotify
+## 🎧 Listening & Reading
 
-<p align="center">
-  <img width="600" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xlhrickyaudreyvalencia&theme=light" alt="Spotify recently played">
-</p>
+<table>
+  <tr>
+    <td width="62%" align="center" valign="middle">
+      <h3>Recently Played on Spotify</h3>
+      <img width="100%" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xlhrickyaudreyvalencia&theme=catppuccin&bg_color=151b23&count=1&width=560" alt="Spotify recently played">
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <h3>My daily.dev</h3>
+      <a href="https://daily.dev/rickyaudreyvalencia">
+        <img width="100%" src="https://api.daily.dev/devcards/v2/LFEMppdzPoEVESOqjKxJs.png?type=default&r=qw2" alt="Ricky Audrey Valencia's Dev Card">
+      </a>
+    </td>
+  </tr>
+</table>
