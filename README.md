@@ -34,9 +34,15 @@
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-```text
-WakaTime statistics will appear here after the workflow is configured.
+
+```txt
+From: 26 August 2026 - To: 26 August 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ### 🐍 Contribution Activity
