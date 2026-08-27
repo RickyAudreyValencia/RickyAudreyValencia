@@ -12,19 +12,14 @@
 
 ---
 
-<h2 align="center">⚡ Developer Dashboard ⚡</h2>
+<h2 align="center">Developer Dashboard</h2>
 
 <p align="center">
   <sub>Live GitHub metrics • coding activity • contribution streak</sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=sequence&duration=4" alt="Ricky's animated GitHub profile details">
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=stagger&duration=3" alt="Ricky's animated GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=draw&duration=3" alt="Ricky's animated top languages">
+  <img width="100%" src="assets/stats-dashboard-animated.gif" alt="Animated GitHub statistics dashboard for Ricky Audrey Valencia">
 </p>
 
 <p align="center">
@@ -32,7 +27,22 @@
 </p>
 
 <details>
-<summary><strong>⌨️ Live Coding Activity</strong></summary>
+<summary><strong>View Live GitHub Cards</strong></summary>
+<br>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=sequence&duration=4" alt="Ricky's live GitHub profile details">
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=stagger&duration=3" alt="Ricky's live GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=draw&duration=3" alt="Ricky's live top languages">
+</p>
+
+</details>
+
+<details>
+<summary><strong>Live Coding Activity</strong></summary>
 <br>
 
 <!--START_SECTION:waka-->
@@ -49,13 +59,13 @@ No activity tracked
 
 </details>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img width="100%" src="assets/github-contribution-grid-snake.svg" alt="Animated contribution snake">
 </p>
 
-### 🏅 Badge Collection
+### Badge Collection
 
 <p align="center">
   <a href="https://holopin.io/@rickyaudrey">
@@ -65,7 +75,7 @@ No activity tracked
 
 ---
 
-## 🎧 Listening & Reading
+## Listening & Reading
 
 <table>
   <tr>
