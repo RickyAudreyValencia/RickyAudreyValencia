@@ -23,6 +23,12 @@
 ## 🔥 Stats & Activity
 
 <p align="center">
+  <a href="https://holopin.io/@rickyaudrey">
+    <img width="100%" src="https://holopin.me/rickyaudrey" alt="Ricky's Holopin badge board">
+  </a>
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyAudreyValencia&theme=github_dark&animation=load&duration=3" alt="Ricky's GitHub profile details">
 </p>
 
