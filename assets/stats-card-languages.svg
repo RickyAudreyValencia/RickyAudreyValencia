@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-labelledby="title desc">
+  <title id="title">Languages by repository</title>
+  <desc id="desc">JavaScript 37.5 percent, HTML 25 percent, PHP, TypeScript, and Python each 12.5 percent.</desc>
+
+  <rect x="1" y="1" width="338" height="198" rx="5" fill="#0d1117" stroke="#e8c27a"/>
+
+  <text x="28" y="31" fill="#e8c27a" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="1.8">LANGUAGES</text>
+  <text x="28" y="49" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">Repository distribution</text>
+  <line x1="28" y1="57" x2="312" y2="57" stroke="#30363d"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="11">
+    <g transform="translate(0 66)">
+      <text x="28" y="9" fill="#c9d1d9">JavaScript</text>
+      <rect x="120" y="1" width="140" height="8" rx="4" fill="#21262d"/>
+      <rect x="120" y="1" width="140" height="8" rx="4" fill="#e8c27a"/>
+      <text x="310" y="9" fill="#c9d1d9" text-anchor="end">37.5%</text>
+    </g>
+
+    <g transform="translate(0 91)">
+      <text x="28" y="9" fill="#c9d1d9">HTML</text>
+      <rect x="120" y="1" width="140" height="8" rx="4" fill="#21262d"/>
+      <rect x="120" y="1" width="93" height="8" rx="4" fill="#d6ae64"/>
+      <text x="310" y="9" fill="#c9d1d9" text-anchor="end">25%</text>
+    </g>
+
+    <g transform="translate(0 116)">
+      <text x="28" y="9" fill="#c9d1d9">PHP</text>
+      <rect x="120" y="1" width="140" height="8" rx="4" fill="#21262d"/>
+      <rect x="120" y="1" width="47" height="8" rx="4" fill="#b99050"/>
+      <text x="310" y="9" fill="#c9d1d9" text-anchor="end">12.5%</text>
+    </g>
+
+    <g transform="translate(0 141)">
+      <text x="28" y="9" fill="#c9d1d9">TypeScript</text>
+      <rect x="120" y="1" width="140" height="8" rx="4" fill="#21262d"/>
+      <rect x="120" y="1" width="47" height="8" rx="4" fill="#9f7940"/>
+      <text x="310" y="9" fill="#c9d1d9" text-anchor="end">12.5%</text>
+    </g>
+
+    <g transform="translate(0 166)">
+      <text x="28" y="9" fill="#c9d1d9">Python</text>
+      <rect x="120" y="1" width="140" height="8" rx="4" fill="#21262d"/>
+      <rect x="120" y="1" width="47" height="8" rx="4" fill="#856333"/>
+      <text x="310" y="9" fill="#c9d1d9" text-anchor="end">12.5%</text>
+    </g>
+  </g>
+</svg>

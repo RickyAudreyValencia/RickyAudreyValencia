@@ -19,11 +19,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/stats-dashboard-animated.gif" alt="Animated GitHub statistics dashboard for Ricky Audrey Valencia">
-</p>
-
-<p align="center">
-  <img width="72%" src="assets/github-contribution-streak.svg" alt="Ricky's GitHub contribution streak">
+  <img width="100%" src="assets/stats-dashboard-clean.gif" alt="Animated GitHub statistics dashboard">
 </p>
 
 ### Contribution Snake

@@ -10,7 +10,7 @@ from PIL import Image, ImageDraw, ImageFilter
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
-OUTPUT = ASSETS / "stats-dashboard-animated.gif"
+OUTPUT = ASSETS / "stats-dashboard-clean.gif"
 
 SIZE = (960, 640)
 FRAME_COUNT = 32
