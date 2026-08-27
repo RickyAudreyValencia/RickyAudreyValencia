@@ -23,23 +23,8 @@
 </p>
 
 <p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=RickyAudreyValencia&theme=dark&border=e8c27a&background=0d1117&ring=e8c27a&fire=f4d58d&currStreakLabel=e8c27a&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Ricky's GitHub contribution streak">
+  <img width="72%" src="https://streak-stats.demolab.com/?user=RickyAudreyValencia&amp;theme=dark&amp;border=e8c27a&amp;background=0d1117&amp;ring=e8c27a&amp;fire=f4d58d&amp;currStreakLabel=e8c27a&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;v=20260827" alt="Ricky's GitHub contribution streak">
 </p>
-
-<details>
-<summary><strong>View Live GitHub Cards</strong></summary>
-<br>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=sequence&duration=4" alt="Ricky's live GitHub profile details">
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=stagger&duration=3" alt="Ricky's live GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=draw&duration=3" alt="Ricky's live top languages">
-</p>
-
-</details>
 
 <details>
 <summary><strong>Live Coding Activity</strong></summary>
