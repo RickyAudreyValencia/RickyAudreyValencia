@@ -3,29 +3,37 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal-intro.svg" alt="Animated developer terminal introducing Ricky Audrey Valencia" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=RickyAudreyValencia&label=PROFILE%20VIEWS&color=e8c27a&style=for-the-badge" alt="Ricky's profile views">
+  <br><br>
+  <a href="https://www.codewars.com/users/RickyAudreyValencia">
+    <img src="https://www.codewars.com/users/RickyAudreyValencia/badges/small?theme=dark" alt="Ricky Audrey Valencia's Codewars badge">
+  </a>
 </p>
 
 ---
 
-## 🔥 Stats & Activity
+<h2 align="center">⚡ Developer Dashboard ⚡</h2>
 
 <p align="center">
-  <a href="https://holopin.io/@rickyaudrey">
-    <img width="100%" src="https://holopin.me/rickyaudrey" alt="Ricky's Holopin badge board">
-  </a>
+  <sub>Live GitHub metrics • coding activity • contribution streak</sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyAudreyValencia&theme=github_dark&animation=load&duration=3" alt="Ricky's GitHub profile details">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=sequence&duration=4" alt="Ricky's animated GitHub profile details">
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyAudreyValencia&theme=github_dark&animation=load&duration=3" alt="Ricky's GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyAudreyValencia&theme=github_dark&animation=load&duration=3" alt="Ricky's top languages by repository">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=stagger&duration=3" alt="Ricky's animated GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickyAudreyValencia&theme=github_dark&title_color=e8c27a&text_color=c9d1d9&bg_color=0d1117&border_color=e8c27a&icon_color=e8c27a&chart_color=e8c27a&animation=draw&duration=3" alt="Ricky's animated top languages">
 </p>
 
-### ⏱️ Coding Activity
+<p align="center">
+  <img width="72%" src="https://streak-stats.demolab.com?user=RickyAudreyValencia&theme=dark&border=e8c27a&background=0d1117&ring=e8c27a&fire=f4d58d&currStreakLabel=e8c27a&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Ricky's GitHub contribution streak">
+</p>
+
+<details>
+<summary><strong>⌨️ Live Coding Activity</strong></summary>
+<br>
 
 <!--START_SECTION:waka-->
 
@@ -39,10 +47,20 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### 🐍 Contribution Activity
+</details>
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img width="100%" src="assets/github-contribution-grid-snake.svg" alt="Animated contribution snake">
+</p>
+
+### 🏅 Badge Collection
+
+<p align="center">
+  <a href="https://holopin.io/@rickyaudrey">
+    <img width="100%" src="https://holopin.me/rickyaudrey" alt="Ricky's Holopin badge board">
+  </a>
 </p>
 
 ---
