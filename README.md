@@ -2,20 +2,8 @@
   <img src="assets/profile-banner-animated.gif" alt="Animated banner — Ricky Audrey Valencia, Software Developer Engineer" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Ricky Audrey Valencia 👋</h1>
-
 <p align="center">
-  <strong>Software Developer Engineer</strong>
-</p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RickyAudreyValencia&color=d4af6a&style=flat-square" alt="Profile views">
-</p>
-
-<p align="center">
-  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation">
+  <img src="assets/terminal-intro.svg" alt="Animated developer terminal introducing Ricky Audrey Valencia" width="100%">
 </p>
 
 ---

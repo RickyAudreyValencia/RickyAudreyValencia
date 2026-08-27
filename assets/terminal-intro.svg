@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ricky Audrey Valencia animated developer terminal</title>
+  <desc id="desc">An animated dark terminal introducing Ricky as a software developer engineer.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111820"/>
+      <stop offset="1" stop-color="#090c10"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b98a45"/>
+      <stop offset="0.5" stop-color="#f4d58d"/>
+      <stop offset="1" stop-color="#b98a45"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="type1">
+      <rect x="72" y="76" width="0" height="34">
+        <animate attributeName="width" values="0;190;190;0;0" keyTimes="0;0.12;0.88;0.94;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="type2">
+      <rect x="72" y="116" width="0" height="40">
+        <animate attributeName="width" values="0;0;460;460;0;0" keyTimes="0;0.13;0.31;0.88;0.94;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="type3">
+      <rect x="72" y="168" width="0" height="34">
+        <animate attributeName="width" values="0;0;570;570;0;0" keyTimes="0;0.33;0.51;0.88;0.94;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="type4">
+      <rect x="72" y="210" width="0" height="34">
+        <animate attributeName="width" values="0;0;700;700;0;0" keyTimes="0;0.53;0.74;0.88;0.94;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="316" rx="22" fill="url(#panel)" stroke="#2b3139" stroke-width="4"/>
+  <rect x="2" y="2" width="1196" height="54" rx="22" fill="#151b23"/>
+  <path d="M2 56H1198" stroke="#30363d" stroke-width="2"/>
+
+  <circle cx="32" cy="29" r="7" fill="#ff5f56"/>
+  <circle cx="56" cy="29" r="7" fill="#ffbd2e"/>
+  <circle cx="80" cy="29" r="7" fill="#27c93f"/>
+  <text x="600" y="36" text-anchor="middle" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="18">ricky@portfolio:~</text>
+
+  <text x="72" y="101" fill="#e8c27a" font-family="Consolas, 'Courier New', monospace" font-size="25" clip-path="url(#type1)">$ whoami</text>
+  <text x="72" y="146" fill="#ffffff" font-family="Consolas, 'Courier New', monospace" font-size="31" font-weight="700" clip-path="url(#type2)">Ricky Audrey Valencia</text>
+  <text x="72" y="194" fill="#e8c27a" font-family="Consolas, 'Courier New', monospace" font-size="23" clip-path="url(#type3)">&gt; Software Developer Engineer</text>
+  <text x="72" y="236" fill="#b7c0ca" font-family="Consolas, 'Courier New', monospace" font-size="22" clip-path="url(#type4)">&gt; Turning ideas into reliable software...</text>
+
+  <rect x="72" y="257" width="560" height="3" rx="2" fill="#21262d"/>
+  <rect x="72" y="257" width="0" height="3" rx="2" fill="url(#gold)">
+    <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.74;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(1010 160)" filter="url(#glow)">
+    <circle r="82" fill="none" stroke="#e8c27a" stroke-opacity="0.18" stroke-width="2">
+      <animate attributeName="r" values="72;88;72" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.1;0.35;0.1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="25" text-anchor="middle" fill="url(#gold)" font-family="Consolas, 'Courier New', monospace" font-size="78" font-weight="700">&lt;/&gt;</text>
+  </g>
+
+  <circle cx="1160" cy="278" r="3" fill="#e8c27a">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1138" cy="288" r="2" fill="#e8c27a">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+
