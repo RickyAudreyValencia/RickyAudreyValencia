@@ -23,26 +23,8 @@
 </p>
 
 <p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com/?user=RickyAudreyValencia&amp;theme=dark&amp;border=e8c27a&amp;background=0d1117&amp;ring=e8c27a&amp;fire=f4d58d&amp;currStreakLabel=e8c27a&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;v=20260827" alt="Ricky's GitHub contribution streak">
+  <img width="72%" src="assets/github-contribution-streak.svg" alt="Ricky's GitHub contribution streak">
 </p>
-
-<details>
-<summary><strong>Live Coding Activity</strong></summary>
-<br>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 26 August 2026 - To: 26 August 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-</details>
 
 ### Contribution Snake
 
